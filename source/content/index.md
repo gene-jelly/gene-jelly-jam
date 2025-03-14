@@ -1,7 +1,7 @@
 ---
-title: My GitHub Pages Notebook!
+title: Gene Jelly Jam
 ---
 
 Hello world!
 
-Write some words here!
+This is Gene Jelly writing. Welcome. 
